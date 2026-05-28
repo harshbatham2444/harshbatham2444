@@ -1,10 +1,10 @@
-<h3 align="left">Hi 👋! My name is Kanhaiya and I'm a Full Stack Developer & DSA Enthusiast from India 🇮🇳, looking for opportunities to learn, grow, and build impactful projects 🚀</h3>
+<h3 align="left">Hi 👋! My name is Harsh Batham and I'm a Full Stack Developer & DSA Enthusiast from India 🇮🇳, looking for opportunities to learn, grow, and build impactful projects 🚀</h3>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kanhaiya1729/Kanhaiya1729/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Kanhaiya1729/Kanhaiya1729/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/harshbatham2444/harshbatham2444/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/harshbatham2444/harshbatham2444/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -38,12 +38,22 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/harshbatham2444" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/harshbatham2444" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://leetcode.com/u/harshbatham2444/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
+  <a href="mailto:harshbatham2444@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kanhaiya1729/Kanhaiya1729/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/harshbatham2444/harshbatham2444/snake-output/snake.svg" alt="Snake animation" />
 
 ###
