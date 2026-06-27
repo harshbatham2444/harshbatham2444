@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harshbatham2444/harshbatham2444/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/harshbatham2444/harshbatham2444/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
@@ -52,8 +45,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/harshbatham2444/harshbatham2444/snake-output/snake.svg" alt="Snake animation" />
-
-###
